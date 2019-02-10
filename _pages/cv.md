@@ -11,30 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Anthropology, University of Illinois at Urbana-Champaign
+* M.A. in Global Studies , Brandeis University
+* Ph.D in Anthropology, CUNY Graduate Center, 2019 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016 - present: Research Analyst
+  * Data & Society Research Institute
+  * Pervasive Data Research Ethics (PERVADE), Algorithmic Fairness
+  * Supervisors: danah boyd, Jacob Metcalf
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019 - present: Researcher
+  * Partnership for AI
+  * Duties included: Algorithmic Fairness
   
+* 2016-2017: Art Editor
+  * Journal of Field Archaeology
+  * Supervisor: Christina Luke
+  
+* 2012-2017: Digital and Spatial Data Specialist
+  * Gygaia Projects
+  * Duties included: spatial data management and the development of 3-dimensional recording and visualization techniques
+ 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ethnographic Methods
+* Python
+* 3D modeling
+  * Structure-from-motion
+  * Agisoft PhotoScan
+* GIS
 
 Publications
 ======
