@@ -11,9 +11,9 @@ title                    : "Emanuel D. Moss"
 title_separator          : "-"
 name                     : &name "Emanuel D. Moss"
 description              : &description "Doctoral Candidate in Anthropology at CUNY Graduate Center | Research Analyst at Data & Society"
-url                      : https://emanuelmoss.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mossmoss24.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "emanuelmoss.github.io"
+repository               : "mossmoss24.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
