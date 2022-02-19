@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.A. in Anthropology, University of Illinois at Urbana-Champaign
+* Ph.D in Anthropology, CUNY Graduate Center
 * M.A. in Global Studies , Brandeis University
-* Ph.D in Anthropology, CUNY Graduate Center, 2019 (expected)
+* B.A. in Anthropology, University of Illinois at Urbana-Champaign
+
+
 
 Work experience
 ======
