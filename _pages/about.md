@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral candidate in cultural anthropology at the CUNY Graduate Center, where I study machine learning from an ethnographic perspective. I focus on the role of data scientists as producers of knowledge, and am particularly interested in how machine learning and artificial intelligence is shaped by technological, economic, and ethical concerns.
+I am a cultural anthropologist who studies machine learning from an ethnographic perspective. I focus on the role of data scientists as producers of knowledge and how the authority of machine is constructed and challenged. I have written extensively on the operationalization of ethics in Silicon Valley and about algorithmic accountability.
 
-I hold a B.A. in Anthropology from the University of Illinois, an M.A. in Global Studies from Brandeis University, and an M.Phil. from CUNY. I have previously worked as a digital and spatial information specialist for archaeological and environmental projects in the United States and Turkey.
+I am currently a Joint Postdoctoral Fellow at Cornell Tech and the Data & Society Research Institute in New York City. I received my PhD. from the CUNY Graduate Center in 2021 for my dissertation, "The Objective Function: Science and Society in the Age of Machine Intelligence". I hold a B.A. in Anthropology from the University of Illinois and an M.A. in Global Studies from Brandeis University. I have previously worked as a digital and spatial information specialist for archaeological and environmental projects in the United States and Turkey.
