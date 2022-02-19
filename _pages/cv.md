@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Anthropology, CUNY Graduate Center
+  * Supervisor: Karen Strassler
 * M.A. in Global Studies , Brandeis University
 * B.A. in Anthropology, University of Illinois at Urbana-Champaign
 
@@ -19,15 +20,24 @@ Education
 
 Work experience
 ======
-* 2016 - present: Research Analyst
+* 2021 - present: Joint Postdoctoral Researcher
+  * Cornell Tech Digital Life Initiative
+  * Data & Society Research Institute
+  * Supervisor: Helen Nissenbaum
+
+* 2019 - 2021: Researcher
+  * Data & Society Research Institute
+  * Algorithmic Accountability, Operationalization of Ethics in AI
+
+* 2017 - 2018: Technical Writing Intern
+  * Cloudera Fast Forward Labs
+  * Research and Technical Writing for ML, client workshop presentation
+
+* 2016 - 2018: Research Analyst
   * Data & Society Research Institute
   * Pervasive Data Research Ethics (PERVADE), Algorithmic Fairness
   * Supervisors: danah boyd, Jacob Metcalf
 
-* 2019 - present: Researcher
-  * Partnership for AI
-  * Duties included: Algorithmic Fairness
-  
 * 2016-2017: Art Editor
   * Journal of Field Archaeology
   * Supervisor: Christina Luke
